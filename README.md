@@ -26,7 +26,7 @@ The Dynamic CV Generator is a Python-based application that allows users to crea
 
 1. **Clone the repository**:
     ```sh
-    git clone <repository_url>
+    git clone https://github.com/DoubleM01/Dynamic-CV-Generator.git
     cd CV_gen
     ```
 
